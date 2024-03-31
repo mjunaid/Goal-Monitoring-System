@@ -1,5 +1,7 @@
 # Goal-Monitoring-System
 
+I created an Excel based program to add and track your goals. It provides a functionality to interact with the calendar to track your progress along with a scoring logic. You can track your progress by utilising the General report, performance analysis and scorecard functionality of the program. If you are interested in getting an Excel copy, kindly reach out to me at junaid2.arshad@gmail.com
+
 Step 1: Create tasks. Provide start date, Category and Task.
 
 ![image](https://github.com/mjunaid/Goal-Monitoring-System/assets/7760909/799b3fd2-87dc-42f8-90ec-8b72109f24d5)
